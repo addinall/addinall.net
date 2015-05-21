@@ -16,3 +16,5 @@ And for the back end my long suffering HTML(5) Toolkit, this time invoking my ne
 
 More to come.  After After.
 
+PS.  If you think that this code looks like a familiar set of tutorials, that's because it is.  I am working through some code school, site point and angular-meteor tutorials and saving the goodly bits.
+
