@@ -1,4 +1,5 @@
 @import "compass";
+@import "compass/reset";
 
 // n is number of stars required
 @function multiple-box-shadow($n) {
