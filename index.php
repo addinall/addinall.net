@@ -6,7 +6,7 @@
 // System       : addinall.net
 // Date         : June 19 2015
 // Author       : Mark Addinall
-// Synopsis     : A mixture of HTML5, CSS3, jQuery - MOBILE,
+// Synopsis     : A mixture of HTML5, CSS3, AngularJS, jQuery
 //                and WebGL in a single page FLUID landing
 //                micro-app.
 //             
@@ -21,7 +21,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Mark Addinall - Brisbane Australia">
-<meta name="keywords" content="HTML5 CSS3 WebGL AJAX REST jQuery MOBILE">
+<meta name="keywords" content="HTML5 CSS3 WebGL AJAX REST AngularJS MOBILE">
 
 
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -49,7 +49,7 @@
   </span>
   <br>
   <span>
-     WebGL/REST-AJaX
+     WebGL/AngularJS/REST-AJaX
   </span>
 </div>
 
