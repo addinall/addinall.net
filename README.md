@@ -13,5 +13,4 @@ I added the WebGL because:
 * I want to learn it
 * This page should be a little OUT-THERE!
 
-Later.
-
+Mixing these technologies MAY take a bit of fnangaling it seems.
