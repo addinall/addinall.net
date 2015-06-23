@@ -1,4 +1,4 @@
-#addinall.net
+#webgl-ex
 ###Mark Addinall - 2015
 
 ##Synopsis
@@ -9,8 +9,8 @@ transactions.  We keep AngularJS for the bi-directional binding, but lose Meteor
 
 This being a one-page micro-app it will use REST for all transactions.  
 
-I added the WebGL because:
-* I want to learn it
-* This page should be a little OUT-THERE!
+My aim was to get an understanding of available development tools on offer and how they could:
+- operate with each other
+- integrate with emerging technologies, in this case webGL
 
 Mixing these technologies MAY take a bit of fnangaling it seems.
